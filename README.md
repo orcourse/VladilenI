@@ -1,3 +1,4 @@
-# gradProject
+# CREATIVE AGENCY
+https://orcourse.github.io/VladilenI/
 
-link to the website https://vladilen597.github.io/gradProject/
+Курс HTML/CSS , проходил Евгений Жабриков январь-февраль 2020 года. Дипломный проект.
